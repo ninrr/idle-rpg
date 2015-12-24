@@ -1,0 +1,1 @@
+This is an IdleRPG game for eggdrop, all coded in tcl. the main ideea behind this game is idling on the channel to get to higher levels. Allong the way, you will gain items, and will fight other players, and for that all you have to do is idle.
